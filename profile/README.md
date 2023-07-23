@@ -1,4 +1,4 @@
-## Useful development tools on Dart
+## Useful kit on Dart
 
 This organization hosts a number of community projects that enable the use of the [Dart programming language] in various ways and modules for implementations in other langs.
 
