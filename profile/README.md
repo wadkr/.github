@@ -1,6 +1,6 @@
 ## Useful kit on Dart
 
-This organization hosts a number of community projects that enable the use of the [Dart programming language] in various ways and modules for implementations of another packages in other langs.
+This organization hosts a number of community projects that enable the use of the [Dart programming language] in various ways and modules for implementations of packages in other langs.
 
 For a curated list of resouces for development including tools and projects, look at us.
 
